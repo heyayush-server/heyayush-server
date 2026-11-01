@@ -1,6 +1,6 @@
 # Hey, I'm Ayush Singh 👋
 
-### Full-Stack Developer • Founder of [Developify India](https://ayush-portfolio-roan-omega.vercel.app) • I build things that ship.
+### Full-Stack Developer • Founder of [Developify India](https://github.com/heyayush-server/Developify-india) • I build things that ship.
 
 ---
 
@@ -52,11 +52,11 @@
 
 | Project | Description |
 |---------|-------------|
-| [**AI Business Command Center**](https://github.com/heyayush-server) | AI-powered business dashboard for smart decision-making |
-| [**CCTV Dashboard AI**](https://github.com/heyayush-server) | Smart surveillance system with real-time detection |
-| [**GMB Lead Scraper AI**](https://github.com/heyayush-server) | Automated lead generation tool with built-in CRM |
-| [**Knox App**](https://github.com/heyayush-server) | Cross-platform mobile app built with Flutter |
-| [**Developify India**](https://ayush-portfolio-roan-omega.vercel.app) | Full-service digital agency website |
+| [**AI Business Command Center**](https://github.com/heyayush-server/ai-business-command-center) | AI-powered business dashboard with intelligent automation and analytics |
+| [**CCTV Dashboard AI**](https://github.com/heyayush-server/CCTV-DashBoard-AI-By-Ayush-) | AI-powered CCTV surveillance dashboard with real-time detection and smart alerts |
+| [**GMB Lead Scraper AI**](https://github.com/heyayush-server/GMB-Lead-Scraper-AI-) | Automated Google My Business lead scraper with integrated CRM |
+| [**Knox App**](https://github.com/heyayush-server/knox-app) | Cross-platform mobile app built with Flutter & Dart |
+| [**Developify India**](https://github.com/heyayush-server/Developify-india) | Official website for Developify India — full-service digital agency |
 
 ---
 
